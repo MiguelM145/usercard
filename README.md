@@ -1,1 +1,1 @@
-# usercard
+# usercard is a school assignment
